@@ -1,0 +1,18 @@
+This set of files contains the Matlab code
+for SPEE algorithm describe in the paper:
+
+Shaohui Mei, Mingyi He, Zhiyong Wang, David Feng. 
+Spatial Purity based Endmember Extraction for Spectral Mixture Analysis, 
+IEEE Transaction on Geoscience and Remote Sensing£¬V48, n9, Sep. 2010, pp. 3434-3445.
+
+
+Files:
+       readme.txt - this file
+         SPEE.m   - Matlab function file with SPEE algorithm
+        AvgPI.m   - Matlab function file with AvgPI
+	MaxPI.m   - Matlab function file with MaxPI 
+           MEI1.m - Matlab function file with MEI1 
+      	   MEI2.m - Matlab function file with MEI2
+ 	  SVDPI.m - Matlab function file with SVDPI
+ 	  PCAPI.m - Matlab function file with PCAPI
+                  
