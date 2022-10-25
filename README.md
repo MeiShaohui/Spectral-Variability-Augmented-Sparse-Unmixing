@@ -3,7 +3,7 @@
 This set of files contains the Matlab code for SVASU algorithm and SPEE algorithm describe in the papers:
  "[Spectral Variability Augmented Sparse Unmixing of Hyperspectral Images](https://ieeexplore.ieee.org/document/9761165)" and "[Spatial Purity based Endmember Extraction for Spectral Mixture Analysis](https://ieeexplore.ieee.org/document/5467158)" 
 
-![alt text](SVASU_Framework.PNG)
+![image](https://github.com/MeiShaohui/Spectral-Variability-Augmented-Sparse-Unmixing-of-Hyperspectral-Images/blob/main/SVASU_Framework.png)
 
 ## Citation
 ---------------------
